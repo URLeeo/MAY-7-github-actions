@@ -1,4 +1,4 @@
-
+![Actions App CI](https://github.com/URLeeo/MAY-7-github-actions/actions/workflows/ci.yml/badge.svg)
 # Lab 6.07: CI with GitHub Actions
 
 > **Duration**: 2h | **Type**: Lab
